@@ -10,7 +10,7 @@ It was difficult to get each time block to save independently to local storage.
 
 ## Screenshot
 
-<img src=.Assets/Screenshot.JPG>
+<img src=./Assets/Screenshot.JPG>
 
 ## Links
 
